@@ -77,7 +77,7 @@ I build ML systems that run on the edge — from clinical health sensing on Appl
       <br>C/C++
     </td>
     <td align="center" width="96">
-      <a href="#tech-stack"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cuda/cuda-original.svg" width="48" height="48" alt="CUDA" /></a>
+      <a href="#tech-stack"><img src="https://cdn.simpleicons.org/nvidia/76B900" width="48" height="48" alt="CUDA" /></a>
       <br>CUDA
     </td>
   </tr>
@@ -125,13 +125,6 @@ I build ML systems that run on the edge — from clinical health sensing on Appl
 | **MoFM**: A Large-Scale Human Motion Foundation Model | arXiv, 2025 | 6 |
 
 <p align="right"><a href="https://scholar.google.com/citations?user=LjWpX1AAAAAJ&hl=en">View all on Google Scholar →</a></p>
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbaharan&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbaharan&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="165" />
-</p>
 
 ---
 
